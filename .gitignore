@@ -16,7 +16,9 @@ media
 .conf-secret
 
 .gitignore
-
+media/
+static_root/
+_Dockerfile*
 # User-specific stuff:
 .idea/
 .idea/**/workspace.xml
